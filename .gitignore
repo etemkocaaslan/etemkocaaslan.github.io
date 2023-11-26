@@ -1,15 +1,4 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-
-/.vs/etemkocaaslan.github.io/FileContentIndex/064e3a71-e9f3-43cc-a041-ad3dec32efc8.vsidx
-/.vs/etemkocaaslan.github.io/FileContentIndex/0a85c2c8-d5b2-46f6-a085-19e94aa5e855.vsidx
-/.vs/etemkocaaslan.github.io/FileContentIndex/5a5f78ce-692a-4a69-9f48-9d4e31962f44.vsidx
-/.vs/etemkocaaslan.github.io/v17/.wsuo
-/.vs/ProjectSettings.json
-/.vs/slnx.sqlite
-/.vs/VSWorkspaceState.json
-/.vs/etemkocaaslan.github.io/FileContentIndex/32dc5575-091a-4400-a3bd-8d9591b8139f.vsidx
-/.vs/etemkocaaslan.github.io/FileContentIndex/8c8d348e-c3e8-4295-ac0a-7afb43c0c741.vsidx
-/.vs/etemkocaaslan.github.io/FileContentIndex/fb413c44-1f73-4140-8b5a-4ffb2393ae14.vsidx
-/.vs/etemkocaaslan.github.io/FileContentIndex/d3130063-90b7-42d5-a8b4-61058ce55464.vsidx
+/.vs
